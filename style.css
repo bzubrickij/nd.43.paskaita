@@ -28,7 +28,12 @@ hr::before {
   width: inherit;
   background: linear-gradient(to right, #f79d00, #64f38c);
 }
-
+h1 {
+  font-size: 35px;
+}
+#question {
+  font-size: 20px;
+}
 button {
   position: relative;
   width: 200px;
